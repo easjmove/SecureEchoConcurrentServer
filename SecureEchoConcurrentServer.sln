@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureEchoConcurrentServer", "SecureEchoConcurrentServer\SecureEchoConcurrentServer.csproj", "{A556A2B3-6B74-4D8F-B148-91799C2FC15C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A556A2B3-6B74-4D8F-B148-91799C2FC15C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A556A2B3-6B74-4D8F-B148-91799C2FC15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A556A2B3-6B74-4D8F-B148-91799C2FC15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A556A2B3-6B74-4D8F-B148-91799C2FC15C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {569FFCE3-90AF-445B-BB6D-B4DC21CFB942}
+	EndGlobalSection
+EndGlobal
